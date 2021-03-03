@@ -1,0 +1,118 @@
+﻿@model WebbanGiay.Models.RegisterModel
+@using BotDetect.Web.UI.Mvc;
+<link href="@BotDetect.Web.CaptchaUrls.Absolute.LayoutStyleSheetUrl"
+      rel="stylesheet" type="text/css" />
+@{ MvcCaptcha registerCaptcha = new MvcCaptcha("registerCaptcha");}
+
+@{
+    ViewBag.Title = "Đăng Ký";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row header-cart">Trang Đăng Ký</div>
+<div class="row jumbotron jumbotron-fluid jumbotron-footer-bot">
+    <div class="container">
+        <div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+
+                        </div>
+                        <div class="panel-body">
+
+                            @using (Html.BeginForm("Register","User", FormMethod.Post))
+                            {
+                                @Html.AntiForgeryToken()                           
+                                <div class="form-horizontal">
+                                    <hr />                                  
+                                    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+                                    @if (ViewBag.Success != null)
+                                    {
+                                        <div class="alert alert-success">@ViewBag.Success</div>
+                                    }
+                                    <div class="form-group">                                   
+                                        @Html.LabelFor(model => model.TenTaiKhoan, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                                        @Html.TextBoxFor(model => model.TenTaiKhoan, new { @class = "form-control" })
+                                        @Html.ValidationMessageFor(model => model.TenTaiKhoan, "", new { @class = "text-danger" })
+
+                                    </div>
+
+                                    <div class="form-group">
+                                        @Html.LabelFor(model => model.MatKhau, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                                        @Html.PasswordFor(model => model.MatKhau, new { @class = "form-control" })
+                                        @Html.ValidationMessageFor(model => model.MatKhau, "", new { @class = "text-danger" })
+
+                                    </div>
+
+                                    <div class="form-group">
+                                        @Html.LabelFor(model => model.ConfirmPassword, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                                        @Html.PasswordFor(model => model.ConfirmPassword, new { @class = "form-control" })
+                                        @Html.ValidationMessageFor(model => model.ConfirmPassword, "", new { @class = "text-danger" })
+
+                                    </div>
+
+                                    <div class="form-group">
+                                        @Html.LabelFor(model => model.HoTen, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                                        @Html.TextBoxFor(model => model.HoTen, new { @class = "form-control" })
+                                        @Html.ValidationMessageFor(model => model.HoTen, "", new { @class = "text-danger" })
+
+                                    </div>
+
+                                    <div class="form-group">
+                                        @Html.LabelFor(model => model.DiaChi, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                                        @Html.TextAreaFor(model => model.DiaChi, new { @class = "form-control" })
+                                        @Html.ValidationMessageFor(model => model.DiaChi, "", new { @class = "text-danger" })
+
+                                    </div>
+
+                                    <div class="form-group">
+                                        @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                                        @Html.TextBoxFor(model => model.Email, new { @class = "form-control" })
+                                        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+
+                                    </div>
+
+                                    <div class="form-group">
+                                        @Html.LabelFor(model => model.SDT, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                                        @Html.TextBoxFor(model => model.SDT, new { @class = "form-control" })
+                                        @Html.ValidationMessageFor(model => model.SDT, "", new { @class = "text-danger" })
+
+                                    </div>
+
+                                    <div class="form-group">
+                                        @Html.LabelFor(model => model.CMND, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                                        @Html.TextBoxFor(model => model.CMND, new { @class = "form-control" })
+                                        @Html.ValidationMessageFor(model => model.CMND, "", new { @class = "text-danger" })
+
+                                    </div>
+
+                                    <div class="form-group">
+                                        <div class="col-md-offset-2 col-md-10">
+                                            @Html.Captcha(registerCaptcha)
+                                            @Html.TextBox("CaptchaCode")
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="col-md-offset-2 col-md-10">
+                                            <input type="submit" value="Đăng Ký" class="btn btn-danger " />
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

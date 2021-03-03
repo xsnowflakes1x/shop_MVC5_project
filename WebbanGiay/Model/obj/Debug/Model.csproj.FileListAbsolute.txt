@@ -1,0 +1,70 @@
+E:\ĐATN\WebbanGiay\Model\bin\Debug\Model.dll.config
+E:\ĐATN\WebbanGiay\Model\bin\Debug\Model.dll
+E:\ĐATN\WebbanGiay\Model\bin\Debug\Model.pdb
+E:\ĐATN\WebbanGiay\Model\bin\Debug\EntityFramework.dll
+E:\ĐATN\WebbanGiay\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\ĐATN\WebbanGiay\Model\bin\Debug\EntityFramework.xml
+E:\ĐATN\WebbanGiay\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\ĐATN\WebbanGiay\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\ĐATN\WebbanGiay\Model\obj\Debug\Model.dll
+E:\ĐATN\WebbanGiay\Model\obj\Debug\Model.pdb
+E:\ĐATN\WebBanGiay\Model\bin\Debug\PagedList.dll
+E:\ĐATN\WebBanGiay\Model\bin\Debug\PagedList.Mvc.dll
+E:\ĐATN\WebBanGiay\Model\bin\Debug\PagedList.xml
+E:\ĐATN\WebBanGiay\Model\bin\Debug\PagedList.Mvc.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\Model\bin\Debug\Model.dll.config
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\Model\bin\Debug\Model.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\Model\bin\Debug\Model.pdb
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\Model\bin\Debug\EntityFramework.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\Model\bin\Debug\PagedList.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\Model\bin\Debug\PagedList.Mvc.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\Model\bin\Debug\EntityFramework.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\Model\bin\Debug\PagedList.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\Model\bin\Debug\PagedList.Mvc.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\Model\obj\Debug\Model.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\Model\obj\Debug\Model.pdb
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\Model\bin\Debug\Model.dll.config
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\Model\bin\Debug\Model.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\Model\bin\Debug\Model.pdb
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\Model\bin\Debug\EntityFramework.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\Model\bin\Debug\PagedList.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\Model\bin\Debug\EntityFramework.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\Model\bin\Debug\PagedList.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\Model\obj\Debug\Model.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\Model\obj\Debug\Model.pdb
+E:\FileThuyetTrinh\WebbanGiay\Model\bin\Debug\Model.dll.config
+E:\FileThuyetTrinh\WebbanGiay\Model\bin\Debug\Model.dll
+E:\FileThuyetTrinh\WebbanGiay\Model\bin\Debug\Model.pdb
+E:\FileThuyetTrinh\WebbanGiay\Model\bin\Debug\EntityFramework.dll
+E:\FileThuyetTrinh\WebbanGiay\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\FileThuyetTrinh\WebbanGiay\Model\bin\Debug\PagedList.dll
+E:\FileThuyetTrinh\WebbanGiay\Model\bin\Debug\PagedList.Mvc.dll
+E:\FileThuyetTrinh\WebbanGiay\Model\bin\Debug\EntityFramework.xml
+E:\FileThuyetTrinh\WebbanGiay\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\FileThuyetTrinh\WebbanGiay\Model\bin\Debug\PagedList.xml
+E:\FileThuyetTrinh\WebbanGiay\Model\bin\Debug\PagedList.Mvc.xml
+E:\FileThuyetTrinh\WebbanGiay\Model\obj\Debug\Model.dll
+E:\FileThuyetTrinh\WebbanGiay\Model\obj\Debug\Model.pdb
+E:\FileThuyetTrinh\WebbanGiay\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\Model\bin\Debug\Model.dll.config
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\Model\bin\Debug\Model.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\Model\bin\Debug\Model.pdb
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\Model\bin\Debug\EntityFramework.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\Model\bin\Debug\PagedList.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\Model\bin\Debug\PagedList.Mvc.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\Model\bin\Debug\EntityFramework.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\Model\bin\Debug\PagedList.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\Model\bin\Debug\PagedList.Mvc.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\Model\obj\Debug\Model.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\Model\obj\Debug\Model.pdb

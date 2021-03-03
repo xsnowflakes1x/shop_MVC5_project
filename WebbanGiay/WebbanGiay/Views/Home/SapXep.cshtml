@@ -1,0 +1,42 @@
+﻿@model PagedList.IPagedList<Model.EF.Product>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "SapXep";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container container-product">  
+    <div class="row best-product-row">
+        @foreach (var item in Model)
+        {
+            var url = "/chi-tiet/" + item.MetaTitle + "-" + item.ID;
+            <div class="col-sm-3 col-md-4 col-lg-3 bg-light">
+                <div class="top-seller">
+                    <div class="card">
+                        <div class="card-body">
+                            <h6>@item.TenSanPham</h6>
+                            <div class="heart-icon" onclick="changeIcon(this)">
+                                <i class="far fa-heart fa-lg"></i>
+                                <i class="fas fa-heart fa-lg black-heart-icon"></i>
+                            </div>
+                            <div class="card-img">
+                                <a href="@url">
+                                    <img class="card-img-top product-img" src="@item.HinhAnh" alt="@item.TenSanPham"><span class="overlay">Chi tiết</span>
+                                </a>
+                            </div>
+
+                            <div class="product-cost"><p class="center-text"><b> Giá: @item.GiaBan.GetValueOrDefault(0).ToString("N0") VND</b></p></div>
+                            <form action="@url" method="GET">
+                                <!-- Mặc định method của form là get -->
+                                <input type="hidden" name="masp" value="01122">
+                                <div class="product-button">
+                                    <a href="/them-gio-hang?productID=@item.ID&soluong=1" class="a-button" style="color:black">Mua ngay<i class="fas fa-shopping-cart fa-flip-horizontal"></i></a>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+    @Html.PagedListPager(Model, page =>  Url.Action("SapXep", new { page }))
+</div>

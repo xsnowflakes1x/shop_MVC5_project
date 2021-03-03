@@ -1,0 +1,175 @@
+﻿
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <!-- thiết lập cho giao diện responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Web Bán Giày</title>
+    <link href="/Assets/Client/image/heel-icon.png" rel="icon">
+    <link href="/Assets/Client/css/grid_style.css" rel="stylesheet">
+
+    <link href="/Assets/Client/css/bootstrap/bootstrap.min.css" rel="stylesheet">
+    <link href="/Assets/Client/css/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="/Assets/Client/css/style.css" rel="stylesheet">
+    <link href="/Assets/Client/css/responsive.css" rel="stylesheet">
+    <link href="/Assets/Client/css/grid_style.css" rel="stylesheet" />
+
+    <!-- script:src -->
+
+
+    <script src="/Assets/Client/javascript/jQuery3.4.1.min.js"></script>
+    <script src="~/Assets/Client/javascript/bootstrap/bootstrap.min.js"></script>
+    <link href="/Assets/Client/css/PagedList.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <!-- begin header -->
+        <header>
+            <div class="top-header">
+                <div class="row top-header-row">
+                    <div class="col col-sm-6 col-md-4">
+                        <div class="left-logo"><a href="/" ref="nofollow"><img src="/Assets/Client/image/girl-shoe-logo.png" alt="shoe-logo" class="img-fluid img-logo"></a></div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-md-3">
+                        <div class="center-banner"><img src="/Assets/Client/image/sale.png" alt="shoe-logo" class="img-fluid banner-img"></div>
+                    </div>
+                    <div class="col-sm-12 col-md-5 right-section">
+                        <div class="right-section">
+                            <div class="top-flex-containner">
+                                <a href="#"><div class="top-item item1"></div></a>
+                                <a href="#"><div class="top-item item2"></div></a>
+                                <a href="#"><div class="top-item item3"></div></a>
+                                <a href="#"><div class="top-item item4"></div></a>
+                                <!-- 							<a href="#"><div class="top-item item5">5</div></a>  -->
+                            </div>
+                            <div class="center-flex-containner">
+                                <div class="center-item">
+                                </div>
+                            </div>
+                            <div class="bot-flex-containner">
+                                @{ 
+                                    var session = (userLogin)Session[WebbanGiay.Common.CommonConstants.USER_SESSION];
+                                }
+                                @if (session == null)
+                                {
+                                <div class="bot-item"><a href="/User/Login" class="item-link"><i class="fas fa-user"></i><b>Đăng Nhập</b></a></div>
+                                <div class="bot-item"><a href="/User/Register" class="item-link"><i class="fas fa-user"></i><b>Đăng Ký</b></a></div>
+                                <div class="bot-item"><a href="/Admin/Login" class="item-link"><i class="fas fa-user"></i><b>Admin</b></a></div>
+                                }
+                                else
+                                {
+                                   <div class="bot-item"><i class="fas fa-user"></i>                                   
+                                            <b>Xin chào: @session.UserName</b>                        
+                                   </div>
+                                   <div class="bot-item">                                   
+                                       @Html.ActionLink("Thoát", "Logout", "User")                            
+                                   </div>
+                                }
+                                @{ Html.RenderAction("HeaderCart", "Home");}
+                            </div>
+                            <div class="center-flex-containner">
+                                <div class="center-item">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+    </div>
+    <!-- end header -->
+
+    @{Html.RenderAction("Menu", "Home");}
+
+    <div class="container">
+        @RenderBody()
+    </div>
+
+    <div class="container">
+        <footer>
+            <div class="row jumbotron  jumbotron-fluid jumbotron-footer-top">
+                <div class="col-sm-2 col-md-2 col-lg-2 bg">
+                    <h5>&nbsp;Liên kết <i class="fas fa-link fa-xs"></i></h5>
+                    <div class="youtube">
+                        <a href="#" class="footer-link youtube-link">
+                            <i class="fab fa-youtube fa-4x fa-fw"></i>
+                            <div><b>&nbsp; youtube</b></div>
+                        </a>
+                    </div>
+                    <div class="twitter">
+                        <a href="#" class="footer-link twitter-link">
+                            <i class="fab fa-twitter-square fa-4x fa-fw"></i>
+                            <div><b>&nbsp; &nbsp; twitter</b></div>
+                        </a>
+                    </div>
+                    <div class="facebook">
+                        <a href="#" class="footer-link facebook-link">
+                            <i class="fab fa-facebook-square fa-4x fa-fw"></i>
+                            <div><b>facebook</b></div>
+                        </a>
+                    </div>
+                    <div class="snapchat">
+                        <a href="#" class="footer-link snapchat-link">
+                            <i class="fab fa-snapchat fa-4x fa-fw"></i>
+                            <div><b>snapchat</b></div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-4 col-md col-lg ">
+                    <h5>&nbsp;Thanh toán online <i class="fab fa-amazon-pay"></i></h5>
+                    <div class="payment-container">
+                        <div class="payment-item card1"></div>
+                        <div class="payment-item card2"></div>
+                    </div>
+                    <div class="payment-container">
+                        <div class="payment-item card3"></div>
+                        <div class="payment-item card4"></div>
+                    </div>
+                    <div class="payment-container">
+                        <div class="payment-item card5"></div>
+                        <div class="payment-item card6"></div>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-md col-lg">
+                    <h5>&nbsp;Dịch vụ <i class="far fa-thumbs-up"></i> & Cam kết <i class="fas fa-stamp"></i> </h5>
+                    <ul class="service-ol">
+                        <li><i class="fas fa-headset"></i>&nbsp;&nbsp;Hỗ trợ & Tư vấn 24/7</li>
+                        <li><i class="far fa-check-circle"></i>&nbsp;&nbsp;Sản phẩm chính hãng</li>
+                        <li><i class="far fa-clock "></i>&nbsp;&nbsp;Thời hạn bảo hành</li>
+                        <li><i class="fas fa-globe "></i>&nbsp;&nbsp;Giao hàng toàn quốc </li>
+                        <li><i class="fas fa-hand-holding-usd "></i>&nbsp;&nbsp;Hoàn tiền</li>
+                        <li><i class="fas fa-shipping-fast fa-fw"></i>&nbsp;&nbsp;Ship</li>
+                    </ul>
+                </div>
+                <div class="col-sm-3 col-md col-lg email-footer">
+                    <h5>&nbsp;Email <i class="far fa-envelope"></i></h5>
+                    <form method="post">
+                        <label>Địa chỉ Email  <span class="asterisk">*</span></label>
+                        <div class="box">
+                            <input type="email" value="" name="EMAIL" class="required email" placeholder="Nhập email">
+                            <input type="submit" value="Subscribe" name="subscribe" class="button">
+                        </div>
+                        <input type="hidden" name="xxx" value="113">
+                    </form>
+                </div>
+            </div>
+            <div class="jumbotron jumbotron-fluid jumbotron-footer-bot">
+                <div class="container">
+                    <p class="about">
+                        <a href="#" class="link"><i class="fa fa-home"></i>Home</a>
+                        | <a href="#" class="link">About</a>
+                        | <a href="/" class="link">Contact</a>
+                        | <a href="#" class="link">Terms&nbsp;of&nbsp;Use</a>
+                        | <a href="#" class="link">Privacy&nbsp;Policy</a>
+                    </p>
+                    <h5 class="rights-text">&copy; 2019 Shoes Shop. All rights reserved | Design by Truc Truong</h5>
+                </div>
+            </div>
+        </footer>
+        <!-- end footer -->
+    </div>
+    <script src="/Assets/Client/javascript/javascript.js"></script>
+    @RenderSection("jsFooter", false)
+</body>
+</html>

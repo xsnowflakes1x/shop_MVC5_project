@@ -1,0 +1,828 @@
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\ApplicationInsights.config
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\roslyn\csc.exe
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\roslyn\System.Collections.Immutable.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\roslyn\System.Reflection.Metadata.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\roslyn\vbc.exe
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe.config
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll.config
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\WebbanGiay.pdb
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\CKFinder.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Model.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Model.pdb
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\CKFinder.pdb
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\PagedList.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\System.Web.Razor.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.pdb
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\EntityFramework.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ĐATN\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.csprojResolveAssemblyReference.cache
+E:\ĐATN\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.pdb
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\EntityFramework.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Microsoft.Web.Infrastructure.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\Owin.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\PagedList.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\System.Web.Razor.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\WebGrease.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\BotDetect.dll
+E:\ĐATN\WebbanGiay\WebbanGiay\bin\BotDetect.Web.UI.Mvc.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\ApplicationInsights.config
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\roslyn\csc.exe
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\roslyn\System.Collections.Immutable.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\roslyn\vbc.exe
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe.config
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll.config
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\WebbanGiay.pdb
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\BotDetect.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\BotDetect.Web.UI.Mvc.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\CKFinder.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\EntityFramework.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Web.Infrastructure.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Model.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Owin.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\PagedList.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\System.Web.Razor.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\WebGrease.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Model.pdb
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\CKFinder.pdb
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\PagedList.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\System.Web.Razor.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.pdb
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\EntityFramework.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.csprojResolveAssemblyReference.cache
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.dll
+E:\Ban copy DATN\LuuTruDA\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.pdb
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\ApplicationInsights.config
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\roslyn\csc.exe
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\roslyn\vbc.exe
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll.config
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\WebbanGiay.pdb
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\BotDetect.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\BotDetect.Web.UI.Mvc.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\CKFinder.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\EntityFramework.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Model.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Owin.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\PagedList.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\System.Web.Razor.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\WebGrease.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Model.pdb
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\CKFinder.pdb
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\PagedList.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\System.Web.Razor.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.pdb
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\EntityFramework.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.csprojResolveAssemblyReference.cache
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.dll
+C:\Users\TUAN NGUYEN\Desktop\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.pdb
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\ApplicationInsights.config
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\roslyn\csc.exe
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\roslyn\System.Collections.Immutable.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\roslyn\System.Reflection.Metadata.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\roslyn\vbc.exe
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe.config
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll.config
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\WebbanGiay.pdb
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\BotDetect.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\BotDetect.Web.UI.Mvc.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\CKFinder.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\EntityFramework.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Agent.Intercept.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Web.Infrastructure.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Model.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Owin.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\PagedList.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\System.Web.Razor.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\WebGrease.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Model.pdb
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\CKFinder.pdb
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\PagedList.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\System.Web.Razor.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.pdb
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\EntityFramework.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.csprojResolveAssemblyReference.cache
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.dll
+E:\FileThuyetTrinh\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.pdb
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\ApplicationInsights.config
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\roslyn\csc.exe
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\roslyn\System.Collections.Immutable.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\roslyn\System.Reflection.Metadata.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\roslyn\vbc.exe
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe.config
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll.config
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\WebbanGiay.pdb
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\BotDetect.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\BotDetect.Web.UI.Mvc.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\CKFinder.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\EntityFramework.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Agent.Intercept.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Web.Infrastructure.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Model.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Owin.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\PagedList.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\System.Web.Razor.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\WebGrease.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Model.pdb
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\CKFinder.pdb
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\PagedList.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\System.Web.Razor.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.pdb
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\EntityFramework.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.csprojResolveAssemblyReference.cache
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN(update)\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.pdb
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\ApplicationInsights.config
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\csc.exe
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\System.Collections.Immutable.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\System.Reflection.Metadata.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\vbc.exe
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe.config
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll.config
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\WebbanGiay.pdb
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\BotDetect.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\BotDetect.Web.UI.Mvc.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\CKFinder.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\EntityFramework.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Agent.Intercept.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Web.Infrastructure.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Model.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Owin.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\PagedList.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.Razor.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\WebGrease.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Model.pdb
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\CKFinder.pdb
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\PagedList.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.Razor.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.pdb
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\EntityFramework.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.csprojResolveAssemblyReference.cache
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.pdb
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\ApplicationInsights.config
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\csc.exe
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\System.Collections.Immutable.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\System.Reflection.Metadata.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\vbc.exe
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe.config
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll.config
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\WebbanGiay.pdb
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\BotDetect.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\BotDetect.Web.UI.Mvc.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\CKFinder.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\EntityFramework.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Agent.Intercept.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Web.Infrastructure.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Model.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Owin.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\PagedList.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.Razor.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\WebGrease.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Model.pdb
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\CKFinder.pdb
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\PagedList.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.Razor.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.pdb
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\EntityFramework.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.csprojResolveAssemblyReference.cache
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.dll
+D:\___ĐỒ ÁN TỐT NGHIỆP\ĐATN (final)\ĐATN (final)\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.pdb
+D:\DEMO\WebbanGiay\WebbanGiay\bin\ApplicationInsights.config
+D:\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\csc.exe
+D:\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\System.Collections.Immutable.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\System.Reflection.Metadata.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\vbc.exe
+D:\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe
+D:\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe.config
+D:\DEMO\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll.config
+D:\DEMO\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\WebbanGiay.pdb
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\BotDetect.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\BotDetect.Web.UI.Mvc.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\CKFinder.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\EntityFramework.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Web.Infrastructure.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Model.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Owin.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\PagedList.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.Razor.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\WebGrease.dll
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Model.pdb
+D:\DEMO\WebbanGiay\WebbanGiay\bin\CKFinder.pdb
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\PagedList.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.Razor.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.pdb
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\EntityFramework.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DEMO\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.csprojResolveAssemblyReference.cache
+D:\DEMO\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.dll
+D:\DEMO\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.pdb
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\ApplicationInsights.config
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\csc.exe
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\System.Collections.Immutable.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\System.Reflection.Metadata.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\vbc.exe
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\roslyn\VBCSCompiler.exe.config
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll.config
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\WebbanGiay.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\WebbanGiay.pdb
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\BotDetect.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\BotDetect.Web.UI.Mvc.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\CKFinder.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\EntityFramework.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Web.Infrastructure.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Model.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Owin.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\PagedList.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.Razor.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\WebGrease.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Model.pdb
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\CKFinder.pdb
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.DependencyCollector.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.Web.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AI.WindowsServer.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.ApplicationInsights.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\PagedList.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\PagedList.Mvc.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.Helpers.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.Mvc.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.Optimization.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.Razor.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Deployment.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\System.Web.WebPages.Razor.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Antlr3.Runtime.pdb
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Newtonsoft.Json.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\EntityFramework.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\EntityFramework.SqlServer.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Google.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.csprojResolveAssemblyReference.cache
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.dll
+D:\Web developer_important\ĐỒ ÁN TỐT NGHIỆP(WEBSITE BÁN GIÀY)\DEMO\WebbanGiay\WebbanGiay\obj\Debug\WebbanGiay.pdb

@@ -1,0 +1,151 @@
+﻿@model Model.EF.Product
+
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var productcategory = (Model.EF.ProductCategory)ViewBag.ProductCategory;
+    var listProduct2 = (List<Model.EF.Product>)ViewBag.ProductCatregory1;
+}
+<div class="container container-product">
+    <div class="row breadcrumb-row">
+        <div class="col-sm bg-dark">
+            <div class="bread_crumb">
+                <nav class="breadcrumb bg-light">
+                    <a class="breadcrumb-item" href="/chi-tiet/@productcategory.MetaTitle-@productcategory.MaLoaiSP">Trang chủ</a>
+                    <i class="fas fa-chevron-right">Chi tiết sản phẩm</i> <i class="fas fa-chevron-right"></i>@productcategory.MetaTitle
+                    <span class="active"></span>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div class="row single-product-row">
+        <div class="col-sm-12 col-md-12 col-lg-5 product-slideshow">
+            <div class="product-image shadow p-4 mb-4 bg-white">
+                <!-- div.container>(div.slidesInBox>((div.numberText{$/4})+(img.Img[src="image/products/product$.jpg" alt="product$"])))*4	-->
+                <!--div.row>(div.col.col-sm.col-md.col-lg>img.slideImg.fadeImg[src="image/products/product1.$.jpg" alt="product$"])*4-->
+
+                <a class="pre" onclick="next(-1)"><i class="fas fa-arrow-circle-left fa-2x"></i></a>
+                <a class="next" onclick="next(1)"><i class="fas fa-arrow-circle-right fa-2x"></i></a>
+                <div class="slidesInBox zoom" id="zoom_id1" style="display: none; position: relative; overflow: hidden;">
+                    <div class="numberText">1/4</div>
+                    <img src="@Model.HinhAnh" alt="product1" class="slideImg">
+                    <img role="presentation" alt="" src="@Model.HinhAnh" class="zoomImg" style="position: absolute; top: -658.31px; left: -483.321px; opacity: 0; width: 1600px; height: 1140px; border: none; max-width: none; max-height: none;">
+                </div>
+                <div class="slidesInBox zoom" id="zoom_id2" style="display: block; position: relative; overflow: hidden;">
+                    <div class="numberText">2/4</div>
+                    <img src="@Model.HinhAnh" alt="product2" class="slideImg">
+                    <img role="presentation" alt="" src="@Model.HinhAnh" class="zoomImg" style="position: absolute; top: -105.753px; left: -865.13px; opacity: 0; width: 1600px; height: 1140px; border: none; max-width: none; max-height: none;">
+                </div>
+                <div class="slidesInBox zoom" id="zoom_id3" style="display: none; position: relative; overflow: hidden;">
+                    <div class="numberText">3/4</div>
+                    <img src="@Model.HinhAnh" alt="product3" class="slideImg">
+                    <img role="presentation" alt="" src="@Model.HinhAnh" class="zoomImg" style="position: absolute; top: -140.122px; left: -716.649px; opacity: 0; width: 1600px; height: 1140px; border: none; max-width: none; max-height: none;">
+                </div>
+                <div class="slidesInBox zoom" id="zoom_id4" style="display: none; position: relative; overflow: hidden;">
+                    <div class="numberText">4/4</div>
+                    <img src="@Model.HinhAnh" alt="product4" class="slideImg">
+                    <img role="presentation" alt="" src="@Model.HinhAnh" class="zoomImg" style="position: absolute; top: -441.517px; left: -668.165px; opacity: 0; width: 1600px; height: 1140px; border: none; max-width: none; max-height: none;">
+                </div>
+
+                <div class="row galerry-row">
+                    <div class="col col-sm col-md col-lg galerryItem"><img src="@Model.HinhAnh" alt="product1" class="slideImg fadeImg" onclick="currentSlide(1)"></div>
+                    <div class="col col-sm col-md col-lg galerryItem active"><img src="@Model.HinhAnh" alt="product2" class="slideImg fadeImg" onclick="currentSlide(2)"></div>
+                    <div class="col col-sm col-md col-lg galerryItem"><img src="@Model.HinhAnh" alt="product3" class="slideImg fadeImg" onclick="currentSlide(3)"></div>
+                    <div class="col col-sm col-md col-lg galerryItem"><img src="@Model.HinhAnh" alt="product4" class="slideImg fadeImg" onclick="currentSlide(4)"></div>
+                </div>
+
+            </div>
+        </div>
+        <div class="col-sm-12 col-md-12 col-lg-7 bg-light product-info">
+            <div class="product-infomation shadow p-4 mb-4 bg-white">
+                <form name="detail_product_form" id="detail_product_form" class="cart-form" action="TrangGioHang.html">
+                    <div class="product-content">
+                        <h3 class="productName">@productcategory.TenLoaiSP</h3>
+                        <h4>@Model.TenSanPham</h4>
+                    </div>
+                    <div class="productPrice">
+                        <br>
+                        <span class="new-price">Giá bán: @Model.GiaBan.GetValueOrDefault(0).ToString("N0") VND</span>
+                    </div>
+                    <div><b>Mô tả:</b><span class="status">&nbsp; <i><ins><b>@Model.MoTa</b></ins></i></span></div>
+                    <input type="hidden" name="masp" value="0119">
+                    <div class="quantity">                       
+                        <!-- <input type="number" name="quantity" value="" min="1" max="5" class="input-quantity" id="quantity_id"> -->
+                        @*<button type="button" class="btn btn-light minus_button"><i class="fas fa-minus-square fa-lg"></i></button>
+                        <input type="text" name="quantity" value="0" pattern="^[1-9]\d{0,1}$" title="nhập số dương và tối đa là 2 chữ số " class="input-quantity quantity_class" required="">
+                        <button type="button" class="btn btn-light plus_button"><i class="fas fa-plus-square fa-lg"></i></button>*@
+                        <div class="cart-button">          
+                                <a href="/them-gio-hang?productID=@Model.ID&soluong=1"  class="a-button" >Thêm vào giỏ hàng<i class="fas fa-shopping-cart fa-flip-horizontal"></i></a>
+                            <button type="button" class="btn btn-outline-danger">Thêm vào danh sách yêu thích<i class="fas fa-heart"></i></button>
+                        </div>
+                        <div id="quantity-err-message1" class="err-message">Tối đa chỉ 10 sản phẩm. Bạn vui lòng nhập lại!</div>
+                        <div id="quantity-err-message2" class="err-message">Chỉ cho phép nhập số!. Bạn vui lòng nhập lại!</div>
+                        <div id="quantity-err-message3" class="err-message">Vui lòng nhập số dương</div>
+                    </div>
+                    <div class="promotion-ofer">
+                        <span class="promotion-text"><strong>Quà tặng &nbsp;<i class="fas fa-gift"></i></strong></span> &nbsp;
+                        <span class="text">Chương trình quà tặng sẽ diễn ra vào tháng 7 này tại Shop này với các hấp dẫn nhanh chân lên nào! </span>
+                    </div>
+                    <br>
+                    <div class="promotion-ofer">
+                        <span class="promotion-text"><strong>   Chi tiết sản phẩm&nbsp;</strong></span> &nbsp;
+                        <span class="text">@Model.ChiTiet</span>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+  
+    <div class="row title-row">
+        <div class="col-sm">
+            <div class="horizontal-line">
+                <div class="product-name-title">
+                    Sản phẩm có thể bạn muốn tìm &nbsp;<i class="fas fa-angle-double-right"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row related-product-row">
+        <div class="col bg-product">
+            <div class="related-product">
+                <div class="row new-product-row">
+                    @foreach (var item in listProduct2)
+                    {
+                        var url = "/chi-tiet/" + item.MetaTitle + "-" + item.ID;
+                        <div class="col col-sm-4 col-md bg-product">
+                            <div class="new-product">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h6>@item.TenSanPham</h6>
+                                        <div id="heart-icon5" class="heart-icon" onclick="changeIcon(this)">
+                                            <i class="far fa-heart fa-lg"></i>
+                                            <i class="fas fa-heart fa-lg black-heart-icon"></i>
+                                        </div>
+                                        <div class="card-img">
+                                            <a href="@url">
+                                                <span class="badge badge-success">Hấp dẫn</span>
+                                                <img class="card-img-top product-img" src="@item.HinhAnh" alt="Card image">
+                                            </a>
+                                        </div>
+                                        <div class="product-cost"><p class="center-text"><b>Giá: @item.GiaBan.GetValueOrDefault(0).ToString("N0") VND</b></p></div>
+                                        <form action="TrangGioHang.html">
+                                            <input type="hidden" name="masp" value="0111">
+                                            <div class="product-button">
+                                                <a href="/them-gio-hang?productID=@item.ID&soluong=1" class="a-button">Mua ngay</a>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="/Assets/Client/javascript/javascript.js"></script>
+<script src="/Assets/Client/javascript/chitietsanpham.js"></script>
+<script src="/Assets/Client/javascript/jquery.zoom.min.js"></script>
